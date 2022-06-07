@@ -1,0 +1,21 @@
+*{
+    background-color: bisque;
+}
+
+h1{
+    color: darkcyan;
+}
+h1:hover{
+    color: crimson;
+}
+p{
+    column-count: 3;
+    column-gap: 40px;
+    column-rule-style: groove;
+    column-rule-width: 2px;
+    column-rule-color: red;
+}
+p:hover{
+    color: white;
+    background-color: black
+}
